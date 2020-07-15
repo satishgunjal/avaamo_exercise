@@ -37,16 +37,16 @@ Create final JSON object as per the requirement
 Total word count=  1095695
 
 Top ten words(more than 4 chars) with count
-  { name: 'which', total: 4597 },
-  { name: 'their', total: 2878 },
-  { name: 'would', total: 1901 },
-  { name: 'there', total: 1836 },
-  { name: 'could', total: 1663 },
-  { name: 'Prince', total: 1501 },
-  { name: 'about', total: 1346 },
-  { name: 'other', total: 1298 },
-  { name: 'Pierre', total: 1260 },
-  { name: 'should', total: 1257 }
+{ name: 'which', total: 4597 },
+{ name: 'their', total: 2878 },
+{ name: 'would', total: 1901 },
+{ name: 'there', total: 1836 },
+{ name: 'could', total: 1663 },
+{ name: 'Prince', total: 1501 },
+{ name: 'about', total: 1346 },
+{ name: 'other', total: 1298 },
+{ name: 'Pierre', total: 1260 },
+{ name: 'should', total: 1257 }
   
 lookup()> word =  which
 lookup()> word =  their
