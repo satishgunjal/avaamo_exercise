@@ -32,6 +32,19 @@ Process the response to get the synonyms and pos values.
 ## Step 7: Create word list JSON object
 Create final JSON object as per the requirement
 
+# Steps to execute the code
+1. Download the zip file from G-Drive or GitHub
+2. Unzip it in a folder
+3. Open the folder from VS Code
+4. Also start a terminal with above folder path (from VS Code or separate)
+5. Run 'npm install' command from the terminal. You should see message like below.    
+```
+  added 47 packages from 58 contributors and audited 47 packages in 4.978s
+  found 0 vulnerabilities
+```
+6. Above action will create 'node_modules' folder in your source directory.
+7. Now you are good to go, just run 'node index.js' to execute the program8. World list JSON object is in string format, you can use online JSON formator (https://jsonformatter.curiousconcept.com/#) to visualize it.
+
 # Final Result
 ```
 Total word count=  1095695
