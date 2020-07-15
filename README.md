@@ -61,3 +61,188 @@ lookup()> word =  should
 
 wordsList()> wordList=  {"word":[{"text":"which","count":4597,"synonyms":["whereby","what","whatever","some"],"pos":["conjunction","determiner / pronoun","determiner / pronoun","determiner / pronoun"]},{"text":"their","count":2878,"synonyms":["its"],"pos":["determiner / pronoun"]},{"text":"would","count":1901,"synonyms":[],"pos":[]},{"text":"there","count":1836,"synonyms":["out here","over here","exist"],"pos":["adverb","adverb","verb"]},{"text":"could","count":1663,"synonyms":["might","can","possible","able"],"pos":["noun","noun","adjective","adjective"]},{"text":"Prince","count":1501,"synonyms":["sovereign","ruler","king","lord","captain","your majesty","mogul","tsarevich"],"pos":["noun","noun","noun","noun","noun","noun","noun","noun"]},{"text":"about","count":1346,"synonyms":["next to","nigh","roughly","near","over","in relation to","virtually","almost","practically","somewhere","say","most"],"pos":["adverb","adverb","adverb","preposition","preposition","adverb","adverb","adverb","adverb","adverb","verb","determiner / pronoun"]},{"text":"other","count":1298,"synonyms":["else","differently","once","different","distinct","additional","farther","fresh","old"],"pos":["adverb","adverb","adverb","adjective","adjective","adjective","adverb","noun","noun"]},{"text":"Pierre","count":1260,"synonyms":[],"pos":[]},{"text":"should","count":1257,"synonyms":["must","necessary","ought","unless","shall"],"pos":["noun","noun","noun","conjunction","noun"]}]}
 ```
+# JSON Object
+```
+  {
+   "word":[
+      {
+         "text":"which",
+         "count":4597,
+         "synonyms":[
+            "whereby",
+            "what",
+            "whatever",
+            "some"
+         ],
+         "pos":[
+            "conjunction",
+            "determiner / pronoun",
+            "determiner / pronoun",
+            "determiner / pronoun"
+         ]
+      },
+      {
+         "text":"their",
+         "count":2878,
+         "synonyms":[
+            "its"
+         ],
+         "pos":[
+            "determiner / pronoun"
+         ]
+      },
+      {
+         "text":"would",
+         "count":1901,
+         "synonyms":[
+
+         ],
+         "pos":[
+
+         ]
+      },
+      {
+         "text":"there",
+         "count":1836,
+         "synonyms":[
+            "out here",
+            "over here",
+            "exist"
+         ],
+         "pos":[
+            "adverb",
+            "adverb",
+            "verb"
+         ]
+      },
+      {
+         "text":"could",
+         "count":1663,
+         "synonyms":[
+            "might",
+            "can",
+            "possible",
+            "able"
+         ],
+         "pos":[
+            "noun",
+            "noun",
+            "adjective",
+            "adjective"
+         ]
+      },
+      {
+         "text":"Prince",
+         "count":1501,
+         "synonyms":[
+            "sovereign",
+            "ruler",
+            "king",
+            "lord",
+            "captain",
+            "your majesty",
+            "mogul",
+            "tsarevich"
+         ],
+         "pos":[
+            "noun",
+            "noun",
+            "noun",
+            "noun",
+            "noun",
+            "noun",
+            "noun",
+            "noun"
+         ]
+      },
+      {
+         "text":"about",
+         "count":1346,
+         "synonyms":[
+            "next to",
+            "nigh",
+            "roughly",
+            "near",
+            "over",
+            "in relation to",
+            "virtually",
+            "almost",
+            "practically",
+            "somewhere",
+            "say",
+            "most"
+         ],
+         "pos":[
+            "adverb",
+            "adverb",
+            "adverb",
+            "preposition",
+            "preposition",
+            "adverb",
+            "adverb",
+            "adverb",
+            "adverb",
+            "adverb",
+            "verb",
+            "determiner / pronoun"
+         ]
+      },
+      {
+         "text":"other",
+         "count":1298,
+         "synonyms":[
+            "else",
+            "differently",
+            "once",
+            "different",
+            "distinct",
+            "additional",
+            "farther",
+            "fresh",
+            "old"
+         ],
+         "pos":[
+            "adverb",
+            "adverb",
+            "adverb",
+            "adjective",
+            "adjective",
+            "adjective",
+            "adverb",
+            "noun",
+            "noun"
+         ]
+      },
+      {
+         "text":"Pierre",
+         "count":1260,
+         "synonyms":[
+
+         ],
+         "pos":[
+
+         ]
+      },
+      {
+         "text":"should",
+         "count":1257,
+         "synonyms":[
+            "must",
+            "necessary",
+            "ought",
+            "unless",
+            "shall"
+         ],
+         "pos":[
+            "noun",
+            "noun",
+            "noun",
+            "conjunction",
+            "noun"
+         ]
+      }
+   ]
+}
+```
+
+
