@@ -1,5 +1,5 @@
 # Problem Statement
-* Find the total numbers of words in the [document](http://norvig.com/big.txt)
+* Find the total number of words in the [document](http://norvig.com/big.txt)
 * List down top ten words (more tha 4 characters) with total count
 * Using Yandex API find the synonyms and pos for top ten words
 * Creat JSON object which include array of top ten words with list of synonyms and pos values
